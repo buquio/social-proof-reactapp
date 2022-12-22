@@ -1,9 +1,9 @@
 const socialcards = [
                          {
                            id: 1,
-                            imgURL: "images/image-colton.jpg", 
-                                name: "Colton Smith",
-                                profile: "Verified Buyer",
+                           imgURL: "images/image-colton.jpg", 
+                           name: "Colton Smith",
+                           profile: "Verified Buyer",
 
                             review: "We needed the same printed design as the one we had ordered a week prior. Not only did they find the original order, but we also received it in time, Excellent!"
                             },

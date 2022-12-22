@@ -5,7 +5,7 @@ const Socialcard = (props) => {
         
         <div className="card one">
                         <div className="profile">
-                            <img src={props.img} alt="image-colton"/>
+                            <img src={props.img} alt="colton"/>
                             <div className="profile-info">
                                 <h3>{props.name} </h3>
                                 <p>{props.profile}</p>

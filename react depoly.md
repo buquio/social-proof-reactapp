@@ -48,7 +48,7 @@ in Vscode terminal
 5. git remote add origin https://github.com/buquio/huddlelandingpage-reactapp.git
 6. npm run deploy
 7. copy the link in your "home" to google search & view your site
-8. go to github and refresh you will see all ur files **note: ur file are in complied format & you need to add it to ur main branch
+8. go to github and refresh you will see all ur files **note: ur file are in complied format & you need to push it to ur main branch
 
 PUSH TO GITHUB
 9. do git status
@@ -70,7 +70,10 @@ PUSH TO GITHUB
 // import axios
 // axios.get('http://localhost:5000/users/')
 
-////////////////OPTIONAL//////////////////////////////////////////////////
+
+
+
+////////////////OPTIONAL STEPS//////////////////////////////////////////////////
 ## in the public folder
 -delete all the files inside it except index.html
 -in the html: edit the title,add the <script src="./src/index.js" type="text/jsx"></script>,remove all the comment, add the cdn fontawesone-link for icons(as needed)

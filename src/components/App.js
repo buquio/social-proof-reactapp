@@ -21,8 +21,8 @@ function App() {
 
             <section className="social-header">
 
-{/* attribute are not changing so no need to set props */}
-                {/* <Socialtitle   />  */}
+{/* attribute are not changing so no need to set props for <Socialtitle   />  */}
+                
                 <Socialtitle 
                 title="10,000+ of our users love our products." 
                 text="We only provide great products combined with excellent customer service.See what our satisfied customers are saying about our services."
